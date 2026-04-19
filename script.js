@@ -222,15 +222,15 @@ setInterval(initializeVisitorCounter, 10);
 
 
 const bioMessages = [
-    "visit beerlanguage.ru pls",
+    "visit allahakhbar.lol pls",
     "Hello World!",
     "my ip is ........ idk",
     "my real ip is secret i think",
-    "my ip in beerlanguage.ru",
+    "my ip in allahakhbar.lol",
     "do you know that iidk is russian????",
     "if talk fairly idk about iidk",
-    "my number is .... also in beerlanguage.ru",
-    "i think you need tap my name in the beerlanguage.ru"
+    "my number is .... also in allahakhbar.lol",
+    "i think you need tap my name in the allahakhbar.lol"
   ];
   let bioText = '';
   let bioIndex = 0;
